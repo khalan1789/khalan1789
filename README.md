@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Benjamin Ducau</h1>
-<h3 align="center">A JavaScript developer from France,sensitive to the front end side but open to full stack. ReactJs enthousiast but as an open minded person, not closed to other framework. Team player who loves to be helpful to others</h3>
+<h3 align="center">A JavaScript developer from France, sensitive to the front end side and open to full stack. React enthousiast but as an open minded person, not closed to other framework. Team player who loves to be helpful to others</h3>
 
 <p align="left"> <a href="https://twitter.com/bnjducau" target="blank"><img src="https://img.shields.io/twitter/follow/bnjducau?logo=twitter&style=for-the-badge" alt="bnjducau" /></a> </p>
 
