@@ -7,11 +7,9 @@
 
 - 🌱 I’m currently learning **TypeScript, NextJs**
 
-- 👯 I’m looking to collaborate on **Repozen**
-
 - 👨‍💻 All of my projects are available at [https://khalan1789.github.io/Benjamin-Ducau/](https://khalan1789.github.io/Benjamin-Ducau/)
 
-- 💬 Ask me about **JavasCript, React**
+- 💬 Ask me about **JavaSript, React, Front-end developement, why not full stack**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/benjamin-ducau/](https://www.linkedin.com/in/benjamin-ducau/)
 
