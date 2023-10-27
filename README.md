@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/bnjducau" target="blank"><img src="https://img.shields.io/twitter/follow/bnjducau?logo=twitter&style=for-the-badge" alt="bnjducau" /></a> </p>
 
-- 🔭 I’m currently working on [Repozen](https://www.linkedin.com/company/repozen/)
+- 🔭 I’m currently working on a mission (NextJs Project)
 
 - 🌱 I’m currently learning **TypeScript, NextJs**
 
