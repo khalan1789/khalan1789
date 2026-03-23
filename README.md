@@ -1,15 +1,21 @@
 <h1 align="center">Hi 👋, I'm Benjamin Ducau</h1>
-<h3 align="center">A JavaScript developer from France, sensitive to the front end side and open to full stack. React enthousiast but as an open minded person, not closed to other framework. Team player who loves to be helpful to others</h3>
+<h3 align="center">A Full Stack developer from France, with a strong sensitivity to product and user experience.  
+I enjoy working across the stack, with a particular affinity for front-end and React, but I stay open-minded and adaptable when it comes to technologies and frameworks.
+
+Curious and pragmatic, I like understanding real user needs, exploring different solutions, and building features that make sense from both a business and user perspective.
+
+I’m also a team player who values collaboration, knowledge sharing, and helping others grow — because building good products is always a collective effort.</h3>
 
 <p align="left"> <a href="https://twitter.com/bnjducau" target="blank"><img src="https://img.shields.io/twitter/follow/bnjducau?logo=twitter&style=for-the-badge" alt="bnjducau" /></a> </p>
 
-- 🔭 I’m currently working on a mission (NextJs Project)
+- 🔭 Currently open to new opportunities (Full Stack / Front-end / Back-end / Product-oriented roles)
 
-- 🌱 I’m currently learning **TypeScript, NextJs**
+- 🌱 Currently exploring React Native on personal projects
 
 - 👨‍💻 All of my projects are available at [https://khalan1789.github.io/Benjamin-Ducau/](https://khalan1789.github.io/Benjamin-Ducau/)
 
-- 💬 Ask me about **JavaSript, React, Front-end developement, why not full stack**
+- 💬 Ask me about **JavaScript, React, C#, full stack development, or product thinking**
+
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/benjamin-ducau/](https://www.linkedin.com/in/benjamin-ducau/)
 
