@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Benjamin Ducau</h1>
-<h3 align="center">A Full Stack developer from France, with a strong sensitivity to product and user experience. </br> 
-I enjoy working across the stack, with a particular affinity for Javascript and React, but I stay open-minded and adaptable when it comes to technologies and frameworks.
-</br>
-Curious and pragmatic, I like understanding real user needs, exploring different solutions, and building features that make sense from both a business and user perspective.
+<h3 align="center">A Full Stack developer from France, with a strong sensitivity to product and user experience. </h3> 
+<h3>I enjoy working across the stack, with a particular affinity for Javascript and React, but I stay open-minded and adaptable when it comes to technologies and frameworks.
+</h3>
+<h3>Curious and pragmatic, I like understanding real user needs, exploring different solutions, and building features that make sense from both a business and user perspective.
 </br>
 I’m also a team player who values collaboration, knowledge sharing, and helping others grow - because building good products is always a collective effort.</h3>
 
