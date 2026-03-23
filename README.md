@@ -4,7 +4,7 @@ I enjoy working across the stack, with a particular affinity for Javascript and 
 </br>
 Curious and pragmatic, I like understanding real user needs, exploring different solutions, and building features that make sense from both a business and user perspective.
 </br>
-I’m also a team player who values collaboration, knowledge sharing, and helping others grow — because building good products is always a collective effort.</h3>
+I’m also a team player who values collaboration, knowledge sharing, and helping others grow - because building good products is always a collective effort.</h3>
 
 <p align="left"> <a href="https://twitter.com/bnjducau" target="blank"><img src="https://img.shields.io/twitter/follow/bnjducau?logo=twitter&style=for-the-badge" alt="bnjducau" /></a> </p>
 
