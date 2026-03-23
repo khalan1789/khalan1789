@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Benjamin Ducau</h1>
 <h3 align="center">A Full Stack developer from France, with a strong sensitivity to product and user experience.  
 I enjoy working across the stack, with a particular affinity for front-end and React, but I stay open-minded and adaptable when it comes to technologies and frameworks.
-
+</br>
 Curious and pragmatic, I like understanding real user needs, exploring different solutions, and building features that make sense from both a business and user perspective.
-
+</br>
 I’m also a team player who values collaboration, knowledge sharing, and helping others grow — because building good products is always a collective effort.</h3>
 
 <p align="left"> <a href="https://twitter.com/bnjducau" target="blank"><img src="https://img.shields.io/twitter/follow/bnjducau?logo=twitter&style=for-the-badge" alt="bnjducau" /></a> </p>
